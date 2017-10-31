@@ -1,0 +1,7 @@
+whoLivesHereIntent who lives here
+whoLivesHereIntent who lives at sixteen seventy five scenic
+takeOutTrashIntent who should take out the trash
+takeOutTrashIntent whos on trash duty
+cohortIntent who is in {cohortName}
+cohortIntent who is in the {cohortName} cohort
+cohortIntent list the roommates who are in {cohortName}
