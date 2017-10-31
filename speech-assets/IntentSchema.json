@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "intent": "whoLivesHereIntent"
+    },
+    {
+      "intent": "takeOutTrashIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "cohortName",
+          "type": "LIST_OF_COHORTS"
+        }
+      ],
+      "intent": "cohortIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
