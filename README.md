@@ -7,7 +7,7 @@ Set-up: Open & Sign-in to Developer and AWS Lambda in two different tabs:
 
 - AWS Lambda: https://portal.aws.amazon.com/billing/signup#/start
     - Under AWS Services, search for "Lambda"
-    - Choose N. Virginia as your region in the top right
+    - Choose N. Virginia as your region in the top right
 
 
 
