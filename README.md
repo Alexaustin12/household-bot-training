@@ -18,3 +18,7 @@ a) whoLivesHereIntent - Learning Goal: Basic Question and Answer. Replace the an
 b) takeOutTrashIntent - Learning Goal: Leverage coding logic to return a random name. See example of JSON input.
 
 c) cohortIntent - Learning Goal: See examples of how to use a slot to take in a variable from the user and return output based on the user's input.
+
+
+Once submitted and approved, register your skill for free Amazon SWAG:
+https://developer.amazon.com/alexa-skills-kit/alexa-developer-skill-promotion
