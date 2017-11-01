@@ -13,9 +13,8 @@ Set-up: Open & Sign-in to Developer and AWS Lambda in two different tabs:
 
 Notes: This skill has 3 intents to help you learn and practice the basics.
 
-a) whoLivesHereIntent
-  - Learning Goal: Basic Question and Answer. Replace the answer to list members of your own household.
-b) takeOutTrashIntent 
-  - Learning Goal: Leverage coding logic to return a random name. See example of JSON input.
-c) cohortIntent
-  - Learning Goal: See examples of how to use a slot to take in a variable from the user and return output based on the user's input.
+a) whoLivesHereIntent - Learning Goal: Basic Question and Answer. Replace the answer to list members of your own household.
+
+b) takeOutTrashIntent - Learning Goal: Leverage coding logic to return a random name. See example of JSON input.
+
+c) cohortIntent - Learning Goal: See examples of how to use a slot to take in a variable from the user and return output based on the user's input.
