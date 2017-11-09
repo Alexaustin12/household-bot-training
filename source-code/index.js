@@ -138,8 +138,8 @@ function handlecohortRequest(intent, session, callback){
     
     if (cohortName == 'gold') {speechOutput = "Alex is in Gold. Go Gold!"}
     else if (cohortName == 'blue') {speechOutput = "Christian is in Blue. Who let the bears out?"}
-    else if (cohortName == 'axe' || 'ax') {speechOutput = "Greg is in Axe. Fax. Slacks. Axe."}
-    else if (cohortName == 'oski') {speechOutput = "Steve and Neeraj are in Oski. Oski. Oski. Oski."}
+    else if (cohortName == 'axe' || cohortName == 'ax' || cohortName == 'x') {speechOutput = "Greg is in Axe. Fax. Slacks. Axe."} //skill repeatedly fails if you try to invoke this intent straight from wake. e.g. if you say Alexa, ask scenic bot who is in axe? It fails out. However, if you open scenic bot, then ask who is in axe, it works. I've tried many iterations of axe, ax, x and nothing fixes, not sure whats causing this bug. It similarly fails out with oski.
+    else if (cohortName == 'oski') {speechOutput = "Steve and Neeraj are in Oski. Oski. Oski. Oski."} // || cohortName == 'aska' || cohortName == 'an oscar' || cohortName == 'ask you' || cohortName == 'oskri'
     else speechOutput = "I don't recognize that cohort. Do you even go here?";
     
     var repromptText = "Are you still there? Try asking me who should take out the trash", 
