@@ -1,7 +1,7 @@
 # household-bot-training
-A sample project to help you create your first Alexa skill.
+This is a sample project to help you create your first Alexa skill.
 
-I recommend following this barebones tutorial to get started. You can have a skill up and running in about 10 minutes.
+Before you start building household bot, I recommend following this barebones tutorial to get started. It will help you get a skill up and running in about 10 minutes.
 https://developer.amazon.com/alexa-skills-kit/alexa-skill-quick-start-tutorial
 
 Once you've done that, you can copy the code on this page to create a "household bot." Then, just update the index.js file with names of those who live in your household, and you'll have your first customized skill to show off to friends and family.
