@@ -1,6 +1,6 @@
 /**
 A simple skill that helps users manage and learn about your household
-For questions, reach out to Alex Blake Austin
+For questions, reach out to Alex Austin
  **/
 
 'use strict';
